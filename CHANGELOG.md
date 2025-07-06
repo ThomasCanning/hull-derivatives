@@ -1,5 +1,11 @@
 # hull-derivatives
 
+## 0.0.4
+
+### Patch Changes
+
+- 05478db: change base branch
+
 ## 0.0.3
 
 ### Patch Changes
