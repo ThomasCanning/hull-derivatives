@@ -1,7 +1,7 @@
 {
   "name": "hull-derivatives",
   "description": "Implementation of the quantitative finance models and algorithms from John Hull's Options, Futures, and Other Derivatives book.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
