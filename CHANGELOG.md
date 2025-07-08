@@ -1,5 +1,11 @@
 # hull-derivatives
 
+## 0.1.0
+
+### Minor Changes
+
+- 1c66fd2: equations for converting interest rates, calculating forward prices, and valuing forwards
+
 ## 0.0.4
 
 ### Patch Changes
