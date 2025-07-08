@@ -1,5 +1,11 @@
 # hull-derivatives
 
+## 0.1.1
+
+### Patch Changes
+
+- ed16a21: adding an initial readme
+
 ## 0.1.0
 
 ### Minor Changes
